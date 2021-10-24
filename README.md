@@ -28,4 +28,17 @@ A step by step series of examples that tell you how to get a development env run
 git colne https://github.com/arjunadhikary/task_manger_api.git
 ```
 
+2)Install npm packages
+
+``` 
+npm i
+```
+
+3)Run the project
+
+```
+npm run dev
+```
+
+
 
