@@ -22,19 +22,19 @@ What things you need to install the software and how to install them
 
 A step by step series of examples that tell you how to get a development env running
 
-1)Get The Repository 
+1) Get The Repository Downloaded or Clone it
 
 ```
 git clone https://github.com/arjunadhikary/task_manger_api.git
 ```
 
-2)Install npm packages
+2) Install npm packages by going into root project directory 
 
 ``` 
-npm i
+npm install 
 ```
 
-3)Run the project
+3)Run the project in development environment
 
 ```
 npm run dev
